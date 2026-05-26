@@ -85,7 +85,7 @@ python main1.py \  --dataset gossipcop \  --config ultra \  --phase all \  --see
 ### 2. Reproduce results using released checkpoints
 
 We provide the released checkpoints and intermediate files for result reproduction.  
-They can be downloaded from: [checkpoints](https://drive.google.com/uc?export=download&id=16752iI7yd5p4X6_eJXvUi7F6cAcNLKxb))
+They can be downloaded from: [checkpoints](https://drive.google.com/uc?export=download&id=16752iI7yd5p4X6_eJXvUi7F6cAcNLKxb)
 
 
 After downloading, place or extract the files into the following directory:
