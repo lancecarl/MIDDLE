@@ -1,4 +1,4 @@
-# MIDDLE: Mutual Inference for Risk-Aware Disinformation Detection and Collusive Group DiscovEry
+# MIDDLE: a Mutual Inference framework for risk-aware Disinformation Detection and coLlusivE group discovEry
 
 Official implementation for the paper: **"Who Is Spreading Disinformation? Collusive User Detection via Information Propagation Modeling in Social Media."**
 
