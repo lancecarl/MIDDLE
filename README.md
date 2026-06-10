@@ -17,7 +17,8 @@ Existing disinformation detection studies usually treat news events as independe
 To address this gap, we propose **MIDDLE**（a Mutual Inference framework for risk-aware Disinformation Detection and coLlusivE group discovEry）, a mutual inference framework that jointly models event-level disinformation risk and group-level collusive behavior. Event-level risk provides weak supervision for discovering high-risk user groups across events, while inferred group risk is fed back into event-level detection as cross-event behavioral evidence. Specifically, MIDDLE introduces user risk modeling and risk-modulated propagation learning to distinguish trustworthy diffusion paths from high-risk spreading noise, and further constructs a risk-guided cross-event user collusion graph to capture repeatedly emerging coordinated behaviors.
 
 Experiments on the PolitiFact and GossipCop datasets show that MIDDLE achieves state-of-the-art performance in disinformation detection. Beyond event-level accuracy, behavioral validation, future infiltration analysis, and cross-event case studies demonstrate that the detected groups are not merely highly active communities, but exhibit stronger fake-oriented coordination patterns and higher future reappearance tendencies.
-<img width="1278" height="516" alt="{755A92F6-70CC-4631-B524-5744B8F8F187}" src="https://github.com/user-attachments/assets/a8fb08d8-2755-4236-9bc7-d0b83c9db3ba" />
+<img width="1827" height="710" alt="{E3EF14BD-AF79-4C78-9E0B-BE4904B82CE6}" src="https://github.com/user-attachments/assets/be047c44-f227-4319-aca8-752fd59a4c93" />
+
 
 ------
 
